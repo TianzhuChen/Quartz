@@ -110,9 +110,6 @@
 		FC06B601179797780080FBF5 = {
 			isa = PBXGroup;
 			children = (
-				FCEA7D6417AA3FBC00B21F13 /* Accelerate.framework */,
-				FCC1C9B71797ED0A00B3EA8F /* ImageIO.framework */,
-				FC06B633179797DE0080FBF5 /* QuartzCore.framework */,
 				FC06B613179797790080FBF5 /* Quartz */,
 				FC06B60C179797780080FBF5 /* Frameworks */,
 				FC06B60B179797780080FBF5 /* Products */,
@@ -130,6 +127,9 @@
 		FC06B60C179797780080FBF5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				FCEA7D6417AA3FBC00B21F13 /* Accelerate.framework */,
+				FCC1C9B71797ED0A00B3EA8F /* ImageIO.framework */,
+				FC06B633179797DE0080FBF5 /* QuartzCore.framework */,
 				FC06B60D179797780080FBF5 /* UIKit.framework */,
 				FC06B60F179797780080FBF5 /* Foundation.framework */,
 				FC06B611179797780080FBF5 /* CoreGraphics.framework */,

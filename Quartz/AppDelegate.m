@@ -13,6 +13,7 @@
 @implementation AppDelegate
 extern float externTest;
 void exampleA() {
+    //blocktest
     char a = 'A';
     ^{
         printf("%c\n", a);
